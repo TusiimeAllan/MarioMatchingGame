@@ -39,6 +39,7 @@ h2{
 
 .box label input{
     /* appearance: none; */
+    color:  #fff;
 
 }
 
@@ -52,13 +53,13 @@ h2{
 }
 
 .box label:nth-child(1) i{
-    background-image: url(assets/01.jpg);
+    background-image: url("assets/01.jpg");
 }
 
 .box label:nth-child(2) i{
-    background-image: url(assets/02.jpg);
+    background-image: url("assets/02.jpg");
 }
 
 .box label:nth-child(3) i{
-    background-image: url(assets/03.jpg);
+    background-image: url("assets/03.jpg");
 }
